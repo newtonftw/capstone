@@ -52,7 +52,7 @@ const BookingForm = () => {
 
                         <div>
                             <div className='btnReceive'>
-
+                                <input aria-label='On Click' type='submit' value={"Make Your Reservation"}/>
                             </div>
                         </div>
                     </fieldset>
